@@ -1,4 +1,3 @@
-# GSOC-Reporter2023-ShardingSphere-on-cloud
 # Project: "Introduce New CRD ShardingSphereChaos"
 
 | **Student** | JinYang Zhao            |
